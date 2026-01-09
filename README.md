@@ -8,7 +8,7 @@ NetPractice est un projet pédagogique interactif qui permet d'apprendre les con
 
 Ce projet m'a permis de comprendre en profondeur comment fonctionnent les réseaux, les adresses IP, les masques de sous-réseau, et le routage. C'est un excellent complément théorique avant de passer aux projets réseau plus avancés.
 
-## 🎯 Objectifs
+## Objectifs
 
 - Comprendre les adresses IP et les masques de sous-réseau
 - Apprendre le routage et les tables de routage
@@ -16,26 +16,11 @@ Ce projet m'a permis de comprendre en profondeur comment fonctionnent les résea
 - Comprendre les différents types d'adresses (host, routeur, broadcast)
 - Apprendre à calculer les plages d'adresses IP
 
-## 🚀 Utilisation
+## Utilisation
 
-### Accès à l'application
+L'application NetPractice est accessible via un navigateur web. Elle propose une série d'exercices progressifs pour apprendre les réseaux, du niveau 0 (bases) au niveau 9 (défi final).
 
-L'application NetPractice est accessible via un navigateur web. Elle propose une série d'exercices progressifs pour apprendre les réseaux.
-
-### Niveaux d'exercices
-
-1. **Niveau 0** : Bases des adresses IP
-2. **Niveau 1** : Masques de sous-réseau simples
-3. **Niveau 2** : Sous-réseaux et routage de base
-4. **Niveau 3** : Routage avancé
-5. **Niveau 4** : Configuration complexe de réseaux
-6. **Niveau 5** : Routage avec plusieurs routeurs
-7. **Niveau 6** : Configuration complète de réseau
-8. **Niveau 7** : Routage avancé avec plusieurs réseaux
-9. **Niveau 8** : Configuration complexe multi-réseaux
-10. **Niveau 9** : Défi final - Réseau complet
-
-## 📚 Concepts appris
+## Concepts appris
 
 ### Adresses IP
 
@@ -65,16 +50,16 @@ L'application NetPractice est accessible via un navigateur web. Elle propose une
 - Configuration de routeurs
 - Connexion de plusieurs réseaux
 
-## 🎓 Ce que j'ai appris
+## Ce que j'ai appris
 
-- **Réseaux TCP/IP** : Compréhension complète du modèle TCP/IP
-- **Adressage IP** : Calcul et attribution d'adresses IP
-- **Sous-réseaux** : Création et gestion de sous-réseaux
-- **Routage** : Configuration de routeurs et tables de routage
-- **Résolution de problèmes réseau** : Diagnostic et correction de configurations
-- **Architecture réseau** : Conception de topologies réseau simples
+- Compréhension complète du modèle TCP/IP
+- Calcul et attribution d'adresses IP
+- Création et gestion de sous-réseaux
+- Configuration de routeurs et tables de routage
+- Diagnostic et correction de configurations réseau
+- Conception de topologies réseau simples
 
-## 💡 Exemples de concepts
+## Exemples de concepts
 
 ### Calcul de sous-réseau
 
@@ -91,13 +76,7 @@ Un routeur doit avoir :
 - Une table de routage configurée
 - Les interfaces correctement configurées
 
-## 🔧 Outils utilisés
-
-- Application web NetPractice
-- Calculatrice de sous-réseaux (mentale ou outil)
-- Compréhension des tables de routage
-
-## 📝 Notes
+## Notes
 
 Ce projet est principalement théorique et pédagogique. Il ne nécessite pas de code mais une bonne compréhension des concepts réseau. Les exercices sont progressifs et permettent d'apprendre étape par étape.
 
